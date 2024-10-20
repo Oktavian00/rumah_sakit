@@ -9,13 +9,13 @@
 
 <body>
 <navbar>
-    <div class="container">
+    <!-- <div class="container">
         <div class="row">
             <div class="header">
             <li><a href="#">Informasi</a></li>
             </div>
         </div>
-    </div>
+    </div> -->
 
 </navbar>
 
@@ -36,6 +36,31 @@
                 <span></span>
             </div>
     </nav>
+
+    <main>
+        <div class="container">
+            <section class="hero">
+                <h2>Selamat Datang di Rumah Sakit Sehat</h2>
+                <p>Kami menyediakan layanan kesehatan terbaik untuk Anda dan keluarga.</p>
+            </section>
+
+            <section class="services">
+                <h2>Layanan Kami</h2>
+                <div class="service">
+                    <h3>Dokter Umum</h3>
+                    <p>Pelayanan kesehatan umum dengan dokter berpengalaman.</p>
+                </div>
+                <div class="service">
+                    <h3>Rawat Inap</h3>
+                    <p>Fasilitas rawat inap yang nyaman dan modern.</p>
+                </div>
+                <div class="service">
+                    <h3>Gawat Darurat</h3>
+                    <p>Layanan gawat darurat 24 jam untuk kebutuhan mendesak.</p>
+                </div>
+            </section>
+        </div>
+    </main>
 </body>
 
     <footer>
